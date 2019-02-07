@@ -1,0 +1,18 @@
+name: gobot-blinkk-Arun1930
+version: master
+summary:  Blink snap for the Raspberry Pi with Gobot
+description: |
+  This is a simple example to blink an LED in the Raspberry Pi
+  using the Gobot framework.
+
+confinement: devmode
+
+apps:
+  gobot-blink-username:
+    command: gobot-blinkk
+
+parts:
+  gobot-blink:
+    source: .
+    plugin: go
+    go-importpath: github.com/username/gobot-blinkk
