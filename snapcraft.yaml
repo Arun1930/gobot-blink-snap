@@ -8,11 +8,11 @@ description: |
 confinement: devmode
 
 apps:
-  gobot-blink-username:
+  gobot-blinkk-Arun1930: 
     command: gobot-blinkk
 
 parts:
-  gobot-blink:
+  gobot-blinkk:
     source: .
     plugin: go
-    go-importpath: github.com/username/gobot-blinkk
+    go-importpath: github.com/Arun1930/gobot-blinkk-snap
