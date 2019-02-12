@@ -1,4 +1,4 @@
-name: gobot-blinkk-Arun1930
+name: gobot-blinkk-arun1930
 version: master
 summary:  Blink snap for the Raspberry Pi with Gobot
 description: |
@@ -8,7 +8,7 @@ description: |
 confinement: devmode
 
 apps:
-  gobot-blinkk-Arun1930: 
+  gobot-blinkk-arun1930: 
     command: gobot-blinkk
 
 parts:
