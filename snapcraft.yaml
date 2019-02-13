@@ -9,7 +9,7 @@ apps:
     gobot-blinkk-arun1930: 
     command: blinkk
     plugs:
-      -gpio
+      - gpio
 parts:
     gobot-blinkk:
     source: .
