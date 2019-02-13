@@ -6,12 +6,12 @@ description: |
   using the Gobot framework.
 confinement: devmode
 apps:
-  gobot-blinkk-arun1930: 
+    gobot-blinkk-arun1930: 
     command: blinkk
     plugs:
       -gpio
 parts:
-  gobot-blinkk:
+    gobot-blinkk:
     source: .
     plugin: go
     go-importpath: github.com/Arun1930/gobot-blinkk-snap
