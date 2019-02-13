@@ -6,7 +6,6 @@ description: |
   using the Gobot framework.
 grade: devel
 confinement: devmode
-
 apps:
   gobot-blinkk-arun1930: 
     command: gobot-blinkk
