@@ -5,7 +5,7 @@ description: |
   This is a simple example to blink an LED in the Raspberry Pi
   using the Gobot framework.
 grade: devel
-confinement: strict
+confinement: devmode
 
 apps:
   gobot-blinkk-arun1930: 
