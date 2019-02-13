@@ -9,8 +9,8 @@ confinement: strict
 apps:
   gobot-blinkk-arun1930: 
     command: gobot-blinkk
-   plugs: 
-      -gpio
+    plugs: 
+          -gpio
 parts:
   gobot-blinkk:
     source: .
