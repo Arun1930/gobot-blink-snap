@@ -8,7 +8,7 @@ description: |
 confinement: strict
 
 apps:
-   gobot-blink-arun1930: 
+   gobot-blinkk-arun1930: 
     command: gobot-blink
     plugs:
       - gpio
