@@ -1,1 +1,1 @@
-# gobot-blinkk-snap
+# gobot-blink-snap
