@@ -6,7 +6,7 @@ description: |
   using the Gobot framework.
 
 confinement: strict
-
+grade: devel
 apps:
    gobot-blink-arun1930: 
     command: gobot-blink
