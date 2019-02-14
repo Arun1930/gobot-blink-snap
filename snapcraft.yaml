@@ -9,7 +9,7 @@ confinement: strict
 grade: devel
 apps:
    gobot-blinkk-arun1930: 
-    command: gobot-blink
+    command: gobot-blinkk-snap
     plugs:
       - gpio
 
